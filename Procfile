@@ -1,0 +1,1 @@
+web: gunicorn sdp_api.wsgi
